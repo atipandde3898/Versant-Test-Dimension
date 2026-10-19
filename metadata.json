@@ -1,0 +1,6 @@
+{
+  "name": "Dimension Education Verbal Test",
+  "description": "Secure, Versant-style spoken English verbal communication test with audio prompts, mic recording, anti-cheating proctoring, and comprehensive admin scoring and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
